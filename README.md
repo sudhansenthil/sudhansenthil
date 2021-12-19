@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudhansenthil
-- 👀 I’m interested in .machine learninig..
+- 👀 I’m interested in machine learninig..
 - 🌱 I’m currently learning advanced python and deep learning..
 - 💞️ I’m looking to collaborate on deep learning..
 - 📫 How to reach me discord: bluverin#4911...
