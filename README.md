@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sudhansenthil
-- 👀 I’m interested in machine learninig..
-- 🌱 I’m currently learning advanced python and deep learning..
-- 💞️ I’m looking to collaborate on deep learning..
-- 📫 reach me on discord bluverin#4911
+- 👋 Hi, I’m Sudharsan S, 
+- I love to solve programming challenges, DM if you know any such :))
+- 📫 reach me on discord as bluverin#4911
 
 <!---
 sudhansenthil/sudhansenthil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
